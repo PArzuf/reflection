@@ -24,3 +24,7 @@ What is the result of merging two branches together? Why do we represent it in t
 
     You merge together the changes on both branches, they will have elements from both of them. And they have two parents commits. 
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+    Pros: quicker, no errors
+    Cons: might change something you do not want to. Doesn't know how to resolve conflicts
