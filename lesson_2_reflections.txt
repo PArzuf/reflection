@@ -20,3 +20,7 @@ How do the diagrams help you visualize the branch structure?
 
     They help visualising all the commits, see where they originate from, analyse reacheability and identify any unreacheable commit. 
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+    You merge together the changes on both branches, they will have elements from both of them. And they have two parents commits. 
+
