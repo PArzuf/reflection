@@ -15,3 +15,7 @@ Describe the differences between forks, clones, and branches. When would you use
         Duplicate a repository on the local machine
     Branch: separate two lines of commits
         Make changes to files, for a separate project
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+    You keep track of the copy that you modified, without any changes introduced by others. 
+    You can use this copy later to solve conflicts. 
