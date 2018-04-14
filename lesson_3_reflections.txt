@@ -24,3 +24,10 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
     I would manually share the file, with emails, or a shared folder. Using different names for the different versions. 
     It would be difficult to keep track of all the chronological changes and merging the files will have to be done manually. 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+    Changes in the master is more straight forward and quick. 
+    Changes in a separate branch are made when you want someone else's approval before merging your code into the master branc (using the pull request). 
+    The advantage is that someone reviews and approves the change into the master branch. 
+    The disadvantage is that, before merging, if the master branch has been modified, you have to pull the changes, merge them in your new branch, resolve conflicts if present, then push the updated branch into GitHub, and then when the pull request is approved, the branch will be merged into the master. 
